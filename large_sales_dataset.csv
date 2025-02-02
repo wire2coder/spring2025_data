@@ -1,0 +1,1001 @@
+Customer_ID,Product_Category,Purchase_Amount,Purchase_Date,Customer_Age,Customer_Gender,Store_Location,Satisfaction_Score
+101,Books,1091.97,7/24/2024,62,Female,Chicago,7.281960861
+102,Furniture,869.33,5/4/2024,62,Female,New York,8.124977704
+102,Books,1592.04,12/29/2024,62,Female,Boston,8.229209071
+102,Electronics,1600.56,12/7/2024,62,Female,Boston,8.882944604
+105,Toys,1030.42,2/20/2024,35,Female,Atlanta,6.811557476
+105,Books,383.44,11/25/2024,35,Female,San Diego,5.779121719
+108,Books,1959.67,5/1/2024,41,Female,Chicago,8.867157586
+109,Electronics,1632.42,4/12/2024,27,Male,Boston,10
+109,Toys,860.63,12/23/2024,27,Male,New York,4.93263625
+110,Clothing,67.08,3/17/2024,18,Female,Atlanta,6.335016785
+112,Electronics,1484.72,2/4/2024,48,Male,Houston,7.646540501
+112,Electronics,1714.46,5/9/2024,48,Male,Chicago,10
+114,Electronics,411.38,11/1/2024,40,Male,Houston,7.101743126
+115,Books,1235.13,3/20/2024,51,Female,Las Vegas,7.70370507
+115,Electronics,571.29,10/25/2024,51,Female,New York,7.583357392
+116,Home Appliances,1273.96,11/1/2024,30,Male,Chicago,9.672490275
+117,Furniture,244.06,3/7/2024,24,Male,San Francisco,7.735933212
+118,Toys,1004.8,12/4/2024,30,Male,Los Angeles,5.852055432
+119,Furniture,602.39,2/15/2024,40,Female,Denver,9.011581029
+120,Furniture,732.77,5/4/2024,48,Male,Los Angeles,5.893559447
+121,Home Appliances,41.76,11/11/2024,27,Male,Denver,6.691314516
+121,Toys,404.72,11/15/2024,27,Male,New York,5.235826677
+122,Clothing,508.75,12/17/2024,49,Male,Boston,6.479448857
+122,Electronics,144.51,8/4/2024,49,Male,Denver,8.382408189
+123,Books,1199.07,6/24/2024,49,Male,Houston,7.793569807
+125,Clothing,756.94,8/12/2024,29,Male,Seattle,6.250531892
+127,Home Appliances,729.07,7/24/2024,49,Female,Boston,7.95862114
+128,Electronics,943.01,9/18/2024,18,Male,Dallas,8.692951544
+128,Books,295.78,12/10/2024,18,Male,Chicago,5.95445188
+129,Furniture,1656.6,1/27/2024,19,Female,Houston,9.500463832
+133,Electronics,46.62,10/28/2024,32,Female,Seattle,7.576823305
+133,Furniture,805.37,9/19/2024,32,Female,Las Vegas,6.919707738
+135,Home Appliances,498.84,12/13/2024,61,Male,Atlanta,5.562044711
+135,Home Appliances,1485.98,7/6/2024,61,Male,San Francisco,7.718684625
+136,Furniture,1305.99,6/12/2024,62,Male,Atlanta,9.247992917
+136,Toys,40.29,6/7/2024,62,Male,Las Vegas,3.865658323
+137,Toys,851.93,5/25/2024,44,Male,Denver,5.596056184
+137,Clothing,1218.93,5/20/2024,44,Male,Atlanta,7.472897961
+137,Toys,50.75,7/7/2024,44,Male,San Francisco,5.160524387
+138,Electronics,1187.66,6/18/2024,66,Male,Houston,10
+139,Books,1334.28,11/15/2024,29,Female,San Diego,7.998823543
+139,Toys,1819.23,4/22/2024,29,Female,New York,8.365040427
+139,Electronics,286.21,8/17/2024,29,Female,San Diego,8.066366296
+141,Home Appliances,1792.96,6/17/2024,30,Male,Boston,7.419403608
+141,Clothing,661.39,4/18/2024,30,Male,Denver,7.301149442
+141,Books,1836.82,6/4/2024,30,Male,Boston,7.418587214
+142,Toys,119.27,12/15/2024,49,Male,Denver,4.991692287
+143,Books,870.43,5/12/2024,22,Female,Boston,5.95469133
+146,Home Appliances,491.1,4/7/2024,29,Male,Seattle,8.95826267
+147,Clothing,745.96,1/23/2024,38,Female,Los Angeles,7.128761198
+147,Books,514.55,10/19/2024,38,Female,San Francisco,6.337256577
+147,Home Appliances,1117.85,11/9/2024,38,Female,San Diego,6.170610975
+148,Clothing,1308.26,1/15/2024,46,Female,Seattle,6.598251888
+149,Electronics,952.4,4/2/2024,36,Male,Dallas,10
+151,Home Appliances,1268.21,9/15/2024,63,Female,Boston,7.938369423
+153,Electronics,1955.05,6/21/2024,19,Male,Los Angeles,9.650902464
+153,Clothing,1986.71,11/6/2024,19,Male,Los Angeles,8.805513776
+153,Clothing,1581.72,4/10/2024,19,Male,Las Vegas,8.503038049
+154,Clothing,1294.98,2/6/2024,54,Male,Boston,6.590371266
+154,Furniture,777.22,9/21/2024,54,Male,Boston,8.061849192
+158,Furniture,1319.09,3/6/2024,19,Male,San Francisco,8.643778582
+158,Clothing,457.79,2/9/2024,19,Male,San Diego,7.442345291
+158,Books,1575.01,6/5/2024,19,Male,Dallas,7.839575263
+158,Furniture,568.45,8/15/2024,19,Male,New York,6.420559088
+159,Toys,1709.15,11/1/2024,59,Female,San Francisco,7.508543359
+162,Home Appliances,1472.33,12/19/2024,32,Female,Miami,8.831408297
+163,Books,1108.24,1/11/2024,41,Male,Miami,7.633045796
+165,Clothing,601.18,1/17/2024,65,Female,Denver,4.861778028
+169,Furniture,25.8,7/19/2024,25,Female,New York,4.801780178
+169,Toys,116.99,10/11/2024,25,Female,Las Vegas,6.050408483
+170,Furniture,1369.09,2/7/2024,63,Female,Chicago,8.231066725
+172,Clothing,261.26,1/29/2024,22,Female,San Francisco,5.933144667
+174,Electronics,1690.35,8/16/2024,52,Male,Miami,10
+175,Clothing,253.8,3/10/2024,62,Female,Miami,6.767479175
+176,Clothing,1661.92,3/25/2024,18,Male,San Diego,8.337310735
+176,Clothing,1495.7,8/30/2024,18,Male,Dallas,7.142545962
+180,Furniture,395.24,3/21/2024,70,Female,New York,8.024008579
+181,Clothing,454.95,9/9/2024,25,Female,Dallas,4.621440456
+181,Toys,1729.89,7/17/2024,25,Female,Las Vegas,5.95320714
+186,Clothing,1199.43,5/14/2024,37,Female,Miami,7.420346808
+186,Electronics,1798.31,11/7/2024,37,Female,Atlanta,8.625326149
+188,Electronics,351.64,11/24/2024,64,Female,Miami,8.430433018
+190,Furniture,1377.33,4/15/2024,60,Female,Seattle,9.515947071
+190,Home Appliances,190.6,4/13/2024,60,Female,San Diego,5.71075152
+191,Toys,1227.74,1/27/2024,35,Male,San Francisco,7.176248543
+192,Toys,591.87,4/1/2024,29,Female,San Francisco,5.979381808
+192,Electronics,345.48,7/18/2024,29,Female,Chicago,8.065240615
+194,Clothing,525.12,1/17/2024,35,Female,Seattle,6.52271845
+196,Electronics,1027.67,1/25/2024,18,Male,Miami,10
+196,Clothing,1976.61,7/9/2024,18,Male,Denver,7.726595314
+196,Clothing,1407.37,5/18/2024,18,Male,Boston,9.018665767
+199,Furniture,445.02,2/3/2024,25,Male,Denver,10
+199,Books,1055.37,1/9/2024,25,Male,New York,6.886728131
+199,Clothing,1739.17,7/31/2024,25,Male,Seattle,7.658290427
+199,Clothing,517.81,12/29/2024,25,Male,Miami,7.144276092
+199,Home Appliances,764.91,11/8/2024,25,Male,Denver,7.795714697
+199,Home Appliances,1022.67,3/21/2024,25,Male,Dallas,8.08399717
+199,Clothing,1706.19,2/15/2024,25,Male,Chicago,5.945253563
+200,Electronics,1894.86,10/20/2024,36,Female,San Diego,10
+200,Clothing,331.55,6/10/2024,36,Female,Denver,6.574701715
+203,Books,1121.89,9/5/2024,55,Female,Denver,7.924694058
+203,Home Appliances,1239.8,2/29/2024,55,Female,Dallas,7.251614077
+204,Furniture,1344.49,3/17/2024,37,Female,Chicago,8.271330404
+204,Home Appliances,282.7,1/12/2024,37,Female,Atlanta,9.866506849
+206,Home Appliances,931.87,12/11/2024,39,Female,San Francisco,7.861153524
+206,Furniture,1305.16,10/4/2024,39,Female,Houston,8.819355253
+207,Electronics,1638.27,1/27/2024,46,Male,Seattle,10
+209,Furniture,1561.53,6/24/2024,34,Male,Dallas,9.660058622
+212,Furniture,850.77,2/25/2024,31,Female,Boston,7.805223043
+213,Clothing,1467.13,12/22/2024,20,Male,Boston,6.587966984
+213,Clothing,751.72,7/3/2024,20,Male,San Diego,8.064493118
+213,Furniture,230.65,7/31/2024,20,Male,Las Vegas,6.318973539
+215,Home Appliances,27.01,5/11/2024,18,Male,San Francisco,5.429213848
+216,Home Appliances,1021.9,5/31/2024,29,Female,Los Angeles,8.31012913
+217,Furniture,1860.99,11/22/2024,41,Female,New York,7.524705911
+217,Electronics,192.83,1/3/2024,41,Female,Miami,8.436223806
+218,Electronics,100.42,6/16/2024,48,Male,Las Vegas,7.384619237
+220,Books,353.67,11/12/2024,52,Female,San Diego,5.557011686
+220,Toys,787.83,8/14/2024,52,Female,Las Vegas,6.413128192
+222,Clothing,1681.04,5/11/2024,22,Female,Los Angeles,7.328595134
+222,Books,1313.99,11/18/2024,22,Female,Houston,7.97686043
+223,Electronics,637.81,1/22/2024,20,Male,Atlanta,8.75019119
+224,Furniture,341.05,11/30/2024,27,Female,Las Vegas,7.312767351
+225,Home Appliances,1313.17,9/1/2024,61,Male,Las Vegas,8.299708545
+226,Clothing,1330.05,7/19/2024,25,Female,Los Angeles,7.683472524
+227,Toys,1651.14,12/28/2024,27,Male,Seattle,6.331566442
+228,Home Appliances,785.13,5/23/2024,30,Female,Dallas,8.939479575
+229,Books,1226.45,7/12/2024,70,Male,Los Angeles,8.302107469
+230,Books,1733.55,2/23/2024,43,Male,Seattle,7.639067686
+231,Home Appliances,1418.6,8/24/2024,22,Female,New York,8.77128954
+231,Home Appliances,627.34,3/23/2024,22,Female,Houston,8.335900315
+231,Furniture,1032.77,7/29/2024,22,Female,Las Vegas,8.711229153
+232,Electronics,838.89,6/12/2024,58,Female,Boston,7.456734031
+233,Electronics,31.74,9/3/2024,23,Female,Chicago,8.604191935
+234,Electronics,690.61,10/8/2024,22,Male,Chicago,6.597171045
+235,Electronics,1489.84,12/13/2024,36,Female,Atlanta,10
+235,Electronics,1546.38,5/26/2024,36,Female,Los Angeles,10
+239,Electronics,1196.96,9/2/2024,43,Male,Los Angeles,10
+243,Furniture,863.52,9/2/2024,42,Female,San Diego,8.424237282
+243,Home Appliances,1794.89,12/28/2024,42,Female,Seattle,8.632618885
+244,Home Appliances,891.62,7/23/2024,19,Female,Miami,7.089192806
+244,Home Appliances,1953.57,1/17/2024,19,Female,Seattle,7.79848091
+244,Clothing,1859.59,11/25/2024,19,Female,Houston,7.206078801
+244,Home Appliances,104.43,7/15/2024,19,Female,New York,6.295817501
+245,Toys,631.55,11/8/2024,20,Male,Los Angeles,4.656813009
+247,Toys,791.76,4/18/2024,50,Female,Dallas,5.545388142
+248,Clothing,1101.08,3/28/2024,45,Female,San Francisco,7.692848824
+249,Home Appliances,884.94,12/8/2024,58,Male,San Francisco,7.009432154
+250,Home Appliances,1696.79,7/30/2024,51,Female,Los Angeles,9.561427184
+251,Clothing,1341.84,7/11/2024,28,Male,Seattle,7.482133411
+251,Clothing,1264.19,7/13/2024,28,Male,Dallas,8.113775265
+252,Clothing,1588.52,1/3/2024,30,Male,Miami,7.792588702
+253,Home Appliances,948.42,11/2/2024,49,Male,San Diego,7.565375836
+254,Furniture,142.08,6/15/2024,32,Male,San Francisco,6.843075038
+255,Electronics,1865.8,3/29/2024,46,Female,Dallas,10
+257,Home Appliances,1191.58,6/8/2024,18,Male,Chicago,5.778587312
+258,Clothing,1475.67,9/3/2024,32,Male,Atlanta,6.800085613
+260,Clothing,801.1,10/3/2024,19,Male,Dallas,7.354799925
+260,Electronics,178.64,9/20/2024,19,Male,Boston,8.248179109
+260,Toys,1507.61,9/18/2024,19,Male,San Diego,5.38761857
+261,Books,1643.92,1/7/2024,21,Female,Las Vegas,7.472463175
+261,Toys,1353.3,8/19/2024,21,Female,Boston,5.893017649
+261,Electronics,1573.62,10/16/2024,21,Female,San Francisco,7.744064954
+262,Electronics,1816.1,12/19/2024,59,Female,New York,9.808517112
+263,Books,1265.87,9/19/2024,22,Female,Boston,6.389978283
+263,Furniture,569.08,8/15/2024,22,Female,Miami,6.462189595
+265,Furniture,1576.49,3/15/2024,55,Male,Denver,9.502125687
+267,Books,1431.27,4/30/2024,39,Female,Dallas,7.729924448
+267,Books,1099.93,7/8/2024,39,Female,San Diego,5.823074224
+268,Clothing,1156.46,1/12/2024,36,Female,Houston,7.114850689
+268,Books,1544.86,6/5/2024,36,Female,Atlanta,7.276799079
+270,Electronics,177.42,11/15/2024,56,Male,Dallas,6.701629102
+271,Books,1326.93,3/23/2024,69,Male,Denver,6.145350665
+272,Electronics,1948.46,4/11/2024,21,Female,Seattle,8.638826636
+273,Electronics,199.64,2/22/2024,32,Male,Seattle,8.565135203
+273,Home Appliances,906.14,5/20/2024,32,Male,Dallas,7.728328016
+274,Clothing,695.11,5/29/2024,19,Female,San Francisco,5.383235977
+276,Books,1651.28,9/20/2024,24,Male,New York,6.395150705
+277,Furniture,351.09,11/5/2024,69,Male,Las Vegas,7.583096283
+278,Home Appliances,761.16,4/2/2024,40,Female,Dallas,8.347239034
+280,Toys,1856.99,8/14/2024,23,Female,Las Vegas,8.794544302
+281,Electronics,458.58,10/7/2024,67,Male,Boston,7.53010397
+282,Home Appliances,1584.44,3/15/2024,18,Female,Houston,8.626988258
+284,Toys,1756.39,7/18/2024,64,Female,Miami,5.273398132
+286,Electronics,454.32,9/17/2024,46,Female,Miami,8.837216456
+287,Books,1286.94,5/11/2024,56,Male,Miami,7.454047003
+288,Clothing,1342.42,10/30/2024,67,Male,New York,7.461896341
+289,Clothing,778.25,5/9/2024,42,Male,Houston,6.89929695
+290,Electronics,267.01,6/12/2024,23,Female,Miami,7.752523897
+290,Home Appliances,895.51,7/30/2024,23,Female,Atlanta,7.736836495
+290,Books,351.64,1/22/2024,23,Female,Las Vegas,7.508553691
+290,Clothing,1200.74,1/8/2024,23,Female,Dallas,7.413605257
+290,Clothing,256.88,7/10/2024,23,Female,Houston,5.964795525
+291,Toys,1651.45,9/18/2024,26,Female,Denver,5.727977583
+291,Toys,327.43,1/1/2024,26,Female,Boston,4.644590538
+292,Home Appliances,1190.82,5/30/2024,39,Male,Houston,7.858165182
+292,Books,1962.57,2/20/2024,39,Male,Houston,7.419097241
+292,Clothing,778.41,5/2/2024,39,Male,New York,7.476798434
+294,Electronics,1764.86,5/1/2024,55,Female,Miami,10
+295,Electronics,533.47,2/27/2024,40,Female,Dallas,8.259975699
+296,Books,650.38,8/21/2024,28,Male,Atlanta,8.16000396
+296,Home Appliances,1358.37,3/15/2024,28,Male,Las Vegas,8.647382456
+298,Home Appliances,1129.06,10/1/2024,45,Female,Los Angeles,8.25874391
+301,Toys,1744.31,9/19/2024,34,Male,Dallas,7.472545829
+301,Toys,1176.19,8/8/2024,34,Male,Los Angeles,5.443662316
+301,Furniture,512.37,1/13/2024,34,Male,Atlanta,9.656056653
+302,Furniture,1449.95,4/5/2024,45,Female,Denver,7.979646857
+303,Home Appliances,1803.24,9/28/2024,55,Female,Miami,8.66557617
+303,Home Appliances,716.56,9/26/2024,55,Female,Seattle,9.184198338
+304,Electronics,1792.15,10/21/2024,29,Female,Chicago,7.956603589
+306,Home Appliances,1119.03,1/10/2024,35,Female,Denver,7.711352388
+307,Home Appliances,1984.31,12/26/2024,20,Male,San Diego,8.718179599
+308,Toys,1277.78,8/18/2024,48,Female,New York,7.858321841
+313,Electronics,192.6,8/12/2024,43,Male,Miami,9.883000508
+315,Toys,363.1,10/4/2024,24,Female,Los Angeles,5.118415491
+315,Electronics,93.97,4/25/2024,24,Female,Los Angeles,10
+317,Home Appliances,1643.77,11/6/2024,18,Female,Las Vegas,5.597841169
+317,Clothing,1964.03,8/18/2024,18,Female,Dallas,9.710421638
+317,Books,48.96,11/28/2024,18,Female,San Diego,5.689350296
+318,Home Appliances,1178.18,2/12/2024,46,Female,Dallas,9.007393941
+318,Home Appliances,254.84,3/30/2024,46,Female,Atlanta,6.197237799
+320,Home Appliances,1203.22,10/24/2024,18,Male,New York,9.265553662
+320,Books,44.95,2/17/2024,18,Male,New York,6.277164506
+320,Clothing,1336.36,5/17/2024,18,Male,Dallas,7.385099154
+320,Toys,1499.82,12/2/2024,18,Male,Houston,7.173784859
+323,Home Appliances,1353.58,12/27/2024,36,Female,Los Angeles,5.695103568
+323,Books,1845.63,11/16/2024,36,Female,Houston,8.696967244
+325,Toys,1729.11,7/22/2024,28,Female,New York,7.981477097
+325,Toys,1373.51,10/31/2024,28,Female,Boston,8.059813574
+325,Books,700.4,4/28/2024,28,Female,Boston,6.048537866
+326,Electronics,1990.98,11/11/2024,28,Male,San Francisco,9.943277531
+327,Books,303.66,4/16/2024,48,Female,New York,5.390995424
+327,Clothing,1287.14,9/27/2024,48,Female,Denver,6.809615911
+329,Clothing,556.5,8/30/2024,40,Male,Miami,5.639987006
+330,Toys,1361.86,5/3/2024,38,Male,Houston,6.965980506
+330,Clothing,1241.3,5/22/2024,38,Male,Denver,8.032685506
+331,Electronics,1233.41,9/2/2024,26,Female,Boston,9.073844718
+331,Clothing,813.02,7/16/2024,26,Female,Seattle,6.837888484
+331,Toys,1412.24,11/2/2024,26,Female,Chicago,6.398119278
+333,Books,291.37,12/19/2024,20,Male,Atlanta,6.324971317
+333,Books,750.15,9/7/2024,20,Male,New York,5.685393845
+333,Books,1373.39,2/21/2024,20,Male,Los Angeles,9.475992435
+333,Clothing,336.24,10/24/2024,20,Male,Denver,8.370020816
+334,Home Appliances,649.65,5/16/2024,46,Female,Boston,7.810689508
+335,Toys,555.06,7/1/2024,54,Female,San Diego,3.999034721
+337,Home Appliances,1605.25,1/5/2024,51,Female,Las Vegas,8.583823446
+341,Furniture,1266.92,6/18/2024,49,Male,New York,8.586653914
+342,Books,186.87,4/13/2024,30,Male,San Diego,4.221912041
+342,Home Appliances,633.26,1/5/2024,30,Male,Chicago,6.796559527
+343,Home Appliances,1178.88,1/5/2024,32,Male,Boston,8.080731517
+344,Toys,1929.22,4/13/2024,22,Male,New York,6.372291192
+346,Electronics,1905.83,4/7/2024,60,Female,Miami,9.705095082
+347,Electronics,1531.56,5/8/2024,32,Female,New York,10
+347,Clothing,827.2,10/8/2024,32,Female,Los Angeles,7.872979152
+351,Electronics,12.62,5/28/2024,28,Male,Chicago,8.617379226
+352,Home Appliances,1882.77,11/26/2024,36,Female,New York,9.263161054
+352,Home Appliances,1092.49,7/18/2024,36,Female,Denver,7.007251343
+353,Home Appliances,7.05,2/16/2024,22,Female,Atlanta,6.239220735
+353,Electronics,563.01,5/15/2024,22,Female,Miami,7.404015399
+353,Clothing,1760.23,10/8/2024,22,Female,Denver,6.831091209
+353,Toys,97.77,1/8/2024,22,Female,Houston,5.757588286
+353,Books,1480.64,6/1/2024,22,Female,Houston,7.404194873
+354,Home Appliances,1587.85,11/17/2024,29,Male,Las Vegas,8.62925195
+354,Books,1534.48,5/26/2024,29,Male,Las Vegas,6.968009499
+354,Books,317.49,12/13/2024,29,Male,Chicago,6.438351879
+356,Electronics,1151.3,10/1/2024,43,Female,Seattle,8.142557955
+356,Clothing,1156.61,3/14/2024,43,Female,Los Angeles,8.850708078
+358,Home Appliances,1117.84,2/23/2024,45,Male,Denver,8.159077019
+359,Clothing,453.28,3/17/2024,37,Male,San Francisco,3.783034003
+359,Furniture,1466.61,8/26/2024,37,Male,Las Vegas,8.471863113
+363,Toys,1436.68,2/2/2024,55,Female,Seattle,7.269479004
+364,Toys,840.07,4/24/2024,57,Male,Seattle,7.58562071
+365,Furniture,1481.27,2/27/2024,61,Female,San Francisco,9.523024229
+368,Electronics,472.95,11/1/2024,27,Female,San Diego,8.138797619
+368,Books,1225.82,3/15/2024,27,Female,Atlanta,7.395451706
+369,Clothing,258.76,1/17/2024,53,Male,Chicago,6.182788921
+370,Clothing,210.07,12/24/2024,56,Male,San Francisco,5.316543515
+371,Toys,23.1,12/26/2024,32,Female,Chicago,5.519188496
+371,Clothing,967.3,11/20/2024,32,Female,Los Angeles,5.754375058
+372,Clothing,1019.62,9/23/2024,30,Male,Dallas,7.388951021
+373,Toys,750.06,9/14/2024,36,Female,Los Angeles,6.605604385
+374,Toys,1127.69,5/3/2024,26,Female,Boston,6.288574383
+377,Books,135.92,6/23/2024,19,Male,Boston,6.530328533
+377,Home Appliances,36.56,4/20/2024,19,Male,Miami,7.425134362
+377,Toys,895.47,7/27/2024,19,Male,Boston,6.128127205
+377,Home Appliances,279.96,10/3/2024,19,Male,New York,7.695215828
+379,Home Appliances,1493.12,12/11/2024,47,Male,Los Angeles,8.555779366
+380,Furniture,1299.9,12/18/2024,18,Male,Seattle,8.059261946
+380,Clothing,1016.14,11/11/2024,18,Male,Boston,6.430665009
+383,Electronics,73.2,12/19/2024,28,Male,Chicago,8.561993316
+383,Toys,760.06,2/17/2024,28,Male,Las Vegas,6.844193087
+384,Clothing,182.09,6/2/2024,40,Male,Chicago,5.136649734
+385,Electronics,459.55,10/31/2024,42,Male,Houston,7.994480551
+385,Electronics,1118.29,11/16/2024,42,Male,Houston,8.0311465
+388,Furniture,648.44,8/30/2024,61,Female,Houston,8.756706823
+389,Toys,1451.03,9/22/2024,33,Female,Houston,6.695002138
+389,Clothing,1234.92,12/26/2024,33,Female,Houston,6.928116486
+394,Furniture,597.25,1/13/2024,47,Male,Las Vegas,7.187565811
+396,Home Appliances,1070.81,6/19/2024,64,Male,Miami,6.691717607
+398,Home Appliances,1163.96,3/14/2024,57,Male,Atlanta,6.746115928
+401,Clothing,1441.42,1/5/2024,34,Male,Chicago,6.853664448
+402,Home Appliances,239.71,8/18/2024,37,Female,Boston,7.31996099
+402,Books,559.41,1/18/2024,37,Female,New York,6.809339026
+404,Toys,594.08,10/21/2024,37,Male,Houston,6.209254438
+405,Home Appliances,1309.88,8/24/2024,41,Female,Las Vegas,10
+405,Furniture,1228.88,7/5/2024,41,Female,Miami,8.67137668
+409,Books,120.55,1/1/2024,21,Female,New York,7.470133239
+414,Clothing,1638.48,1/10/2024,37,Female,Miami,7.990225727
+414,Electronics,1450.01,12/26/2024,37,Female,San Diego,8.908222599
+416,Electronics,322.7,7/12/2024,54,Female,Los Angeles,10
+416,Home Appliances,423.46,7/5/2024,54,Female,New York,6.790174815
+418,Toys,797.77,6/26/2024,52,Female,New York,5.617278341
+421,Electronics,775.99,9/26/2024,25,Male,Dallas,8.6838125
+423,Books,1135.32,1/14/2024,19,Female,New York,7.007021006
+423,Electronics,1067.3,9/5/2024,19,Female,Miami,7.692237115
+425,Books,520.57,12/20/2024,25,Female,Los Angeles,7.755862515
+426,Home Appliances,1519.89,9/21/2024,70,Female,Atlanta,8.558284008
+427,Toys,370.12,12/8/2024,69,Female,New York,5.540718794
+430,Clothing,239.7,1/6/2024,69,Male,San Francisco,5.500607384
+431,Home Appliances,1508.63,5/28/2024,20,Male,San Diego,8.235951968
+431,Toys,761.82,10/15/2024,20,Male,Las Vegas,5.933704834
+436,Furniture,1956.9,3/24/2024,55,Female,San Francisco,9.095700455
+438,Furniture,718.81,6/19/2024,20,Male,San Francisco,8.637808757
+438,Home Appliances,1311.11,1/12/2024,20,Male,Dallas,6.584588988
+438,Clothing,416.34,5/31/2024,20,Male,Denver,5.774366338
+439,Clothing,991.49,12/23/2024,68,Female,Dallas,8.324308794
+440,Home Appliances,1594.61,8/27/2024,48,Female,San Diego,10
+440,Electronics,1897.42,5/17/2024,48,Female,Boston,9.256831247
+441,Books,974.6,1/1/2024,52,Female,Dallas,6.976838751
+442,Clothing,812.57,7/12/2024,55,Male,Houston,7.027104427
+442,Electronics,1603.73,2/5/2024,55,Male,San Diego,10
+442,Furniture,679.83,10/12/2024,55,Male,Denver,8.936606878
+444,Furniture,1705.57,5/21/2024,44,Female,Dallas,6.311885848
+444,Toys,1567.93,10/24/2024,44,Female,Atlanta,9.531038456
+446,Toys,910.12,4/7/2024,25,Female,San Francisco,4.201601497
+446,Books,1055.61,1/22/2024,25,Female,Atlanta,6.662057127
+446,Home Appliances,1647.23,5/4/2024,25,Female,San Diego,8.227326997
+446,Furniture,1618.72,7/23/2024,25,Female,Dallas,7.915598945
+448,Toys,1069.36,11/4/2024,19,Female,New York,5.609445673
+448,Home Appliances,40.8,7/31/2024,19,Female,San Francisco,6.620806023
+448,Electronics,264,5/19/2024,19,Female,Atlanta,8.339599489
+449,Books,1087.02,6/14/2024,31,Female,Dallas,6.37206315
+449,Home Appliances,322.81,6/22/2024,31,Female,Denver,8.093451226
+450,Clothing,90.05,7/15/2024,27,Male,Dallas,7.274465461
+454,Furniture,153.89,10/29/2024,66,Male,San Diego,8.418509712
+457,Clothing,226.06,7/5/2024,42,Female,Las Vegas,5.903173595
+458,Home Appliances,973.29,6/3/2024,69,Male,Denver,7.622563517
+459,Furniture,364.12,12/2/2024,62,Female,Miami,9.166631859
+461,Clothing,682.86,9/13/2024,41,Male,San Diego,7.130723328
+465,Home Appliances,465.5,12/8/2024,37,Female,Houston,6.917841895
+465,Books,1451.69,2/12/2024,37,Female,Los Angeles,7.124051876
+467,Furniture,1824.11,3/21/2024,50,Male,Las Vegas,8.384950729
+467,Books,1396.85,5/20/2024,50,Male,Boston,8.261030705
+469,Toys,1274.8,8/16/2024,30,Male,Dallas,5.359593588
+469,Home Appliances,1893.54,2/12/2024,30,Male,Miami,8.893017476
+470,Home Appliances,1730,5/31/2024,54,Male,Miami,8.35750812
+473,Books,1542.85,3/25/2024,20,Female,Dallas,7.710212454
+473,Furniture,1344.76,6/22/2024,20,Female,Las Vegas,8.634280209
+473,Clothing,1198.23,9/1/2024,20,Female,Boston,8.001010836
+473,Home Appliances,1994.17,5/15/2024,20,Female,San Diego,8.873041874
+474,Clothing,688.59,2/2/2024,23,Male,Houston,6.058046904
+475,Clothing,1340.86,9/17/2024,38,Female,San Francisco,7.364963226
+476,Electronics,1288.51,9/23/2024,63,Male,Miami,9.464094804
+477,Toys,1082.11,3/1/2024,32,Male,Boston,5.729685745
+479,Clothing,1188.59,11/17/2024,20,Male,Boston,8.668576413
+480,Books,1903.34,11/3/2024,51,Female,Boston,7.6805243
+480,Home Appliances,1930.43,11/24/2024,51,Female,Los Angeles,9.966314662
+484,Electronics,334.76,7/18/2024,26,Male,San Francisco,8.122560535
+485,Toys,1118.49,2/8/2024,32,Female,San Francisco,6.672258463
+485,Clothing,322.78,10/15/2024,32,Female,Dallas,5.155531441
+486,Toys,1296.91,2/16/2024,38,Female,San Diego,5.399343315
+486,Furniture,1324.96,9/15/2024,38,Female,Miami,7.934201587
+486,Toys,961.31,11/1/2024,38,Female,San Francisco,6.176817023
+487,Electronics,1957.37,3/5/2024,29,Female,Miami,9.743532577
+487,Home Appliances,1518.06,6/13/2024,29,Female,Chicago,9.470243743
+488,Toys,945.71,12/26/2024,34,Female,Houston,5.023117333
+488,Electronics,1182.58,2/20/2024,34,Female,Boston,10
+490,Toys,1968.78,2/29/2024,49,Female,San Francisco,7.76463563
+490,Toys,386.56,7/1/2024,49,Female,Los Angeles,4.631176423
+492,Toys,86.3,12/4/2024,30,Female,Denver,5.227653527
+492,Clothing,1811.52,9/19/2024,30,Female,Houston,6.755902528
+493,Home Appliances,1311.74,10/28/2024,32,Male,Boston,7.34632049
+493,Toys,1659.52,4/30/2024,32,Male,Boston,6.87916516
+493,Home Appliances,993.43,7/10/2024,32,Male,San Diego,6.944303509
+493,Electronics,477.38,8/8/2024,32,Male,Las Vegas,8.701383133
+494,Books,360.85,10/24/2024,56,Female,Denver,4.398115475
+496,Clothing,994.85,1/12/2024,44,Female,Miami,7.086720934
+496,Home Appliances,454.95,10/17/2024,44,Female,Dallas,7.748430953
+497,Electronics,1624.45,6/16/2024,48,Female,San Francisco,9.062926143
+497,Toys,1534.34,10/19/2024,48,Female,Las Vegas,6.4190194
+498,Clothing,1214.35,8/20/2024,19,Male,San Francisco,7.501142898
+498,Toys,1450.41,3/26/2024,19,Male,Seattle,6.897303578
+498,Toys,800.68,3/23/2024,19,Male,Seattle,4.814077637
+500,Clothing,427.45,7/26/2024,70,Male,Los Angeles,6.585204871
+501,Books,1738.46,9/4/2024,41,Female,Chicago,7.08815999
+501,Furniture,1292.35,11/17/2024,41,Female,Houston,9.356293446
+502,Clothing,1315.68,2/17/2024,21,Female,San Francisco,8.031697343
+502,Home Appliances,897.97,10/20/2024,21,Female,Seattle,7.11103845
+503,Furniture,1211.88,6/16/2024,33,Male,Las Vegas,9.263343319
+503,Books,302.24,12/28/2024,33,Male,Miami,5.964201959
+504,Toys,1189.11,9/10/2024,33,Male,San Francisco,5.470219585
+507,Electronics,1087.24,4/3/2024,57,Male,New York,9.082618311
+507,Furniture,199.3,1/29/2024,57,Male,Seattle,8.558201515
+508,Clothing,1190.61,11/7/2024,26,Male,Chicago,6.357388135
+508,Home Appliances,1451.75,8/5/2024,26,Male,Seattle,9.238888554
+509,Home Appliances,1122.56,6/12/2024,57,Female,Denver,8.958705656
+511,Furniture,1171.42,4/24/2024,69,Male,Houston,10
+513,Electronics,773.82,4/22/2024,40,Male,Las Vegas,8.97259365
+514,Books,1353.72,3/23/2024,40,Male,Las Vegas,7.104544162
+515,Toys,1859.56,10/15/2024,19,Female,Dallas,5.886566003
+515,Furniture,1961.13,12/22/2024,19,Female,Seattle,8.689893859
+515,Books,341.86,3/24/2024,19,Female,Dallas,5.765002905
+516,Electronics,1302.77,8/6/2024,40,Male,San Francisco,9.16959186
+517,Electronics,192.05,8/4/2024,66,Male,Boston,8.507294927
+518,Furniture,1666.2,1/23/2024,50,Female,Los Angeles,8.127365154
+519,Electronics,880.02,5/21/2024,43,Male,Las Vegas,9.148983514
+520,Furniture,1465.26,9/15/2024,25,Female,Los Angeles,7.295366974
+520,Furniture,1561.9,8/21/2024,25,Female,Chicago,10
+522,Books,1703.09,8/30/2024,54,Female,Dallas,7.557952381
+522,Home Appliances,1250.73,5/18/2024,54,Female,Las Vegas,6.811815306
+527,Toys,1517.58,11/19/2024,49,Female,New York,5.454406644
+528,Clothing,926.88,7/10/2024,38,Male,New York,6.476127891
+532,Furniture,232.34,11/21/2024,24,Male,Houston,6.551757114
+535,Toys,169.82,12/15/2024,30,Female,San Diego,7.862578163
+536,Books,236.11,3/1/2024,55,Male,Seattle,9.132628606
+538,Toys,384.7,12/4/2024,42,Male,Las Vegas,3.906121332
+539,Toys,879.15,1/14/2024,66,Female,Los Angeles,5.95276651
+541,Books,1042.78,1/31/2024,40,Female,Miami,8.268936368
+542,Home Appliances,1463,3/2/2024,48,Female,Boston,7.992276592
+542,Furniture,1344.55,11/4/2024,48,Female,Denver,9.225417331
+544,Books,1927.83,8/13/2024,37,Male,Seattle,8.938789206
+545,Home Appliances,360.61,1/19/2024,57,Female,Atlanta,7.658415882
+545,Toys,810.94,3/10/2024,57,Female,Denver,5.839780872
+547,Clothing,1941.65,12/12/2024,68,Female,Las Vegas,8.098494244
+550,Furniture,511.68,1/11/2024,19,Male,Denver,6.955983323
+551,Electronics,436.1,9/8/2024,41,Female,Dallas,8.158964531
+553,Books,1835.92,2/8/2024,22,Male,Los Angeles,7.95103607
+553,Electronics,345.1,2/12/2024,22,Male,Chicago,8.920160768
+553,Home Appliances,959.12,7/6/2024,22,Male,Dallas,6.945751992
+555,Toys,374.99,9/25/2024,52,Female,Boston,3.566404043
+555,Electronics,1900.87,2/13/2024,52,Female,Boston,9.057947668
+556,Books,424.65,1/2/2024,33,Female,Atlanta,7.294201107
+556,Home Appliances,211.1,5/23/2024,33,Female,San Diego,5.372566878
+556,Electronics,1956.23,2/3/2024,33,Female,San Francisco,10
+557,Toys,337.94,4/8/2024,66,Female,San Francisco,4.679496834
+559,Home Appliances,1578.67,10/3/2024,62,Male,New York,8.821681857
+560,Books,746.81,6/2/2024,45,Female,New York,5.990324334
+560,Furniture,690.4,5/26/2024,45,Female,San Francisco,8.500118265
+561,Electronics,1672.82,1/31/2024,42,Female,Dallas,8.041545504
+561,Books,1053.24,11/14/2024,42,Female,Atlanta,7.786300116
+562,Toys,695.3,1/15/2024,41,Female,San Francisco,5.562278119
+562,Home Appliances,1536.61,11/19/2024,41,Female,Los Angeles,8.99692672
+564,Electronics,1003.39,11/21/2024,32,Female,Houston,10
+567,Electronics,787.34,1/25/2024,67,Male,Chicago,8.430232808
+569,Home Appliances,873.18,7/22/2024,57,Female,New York,6.533696845
+570,Books,1664.57,10/12/2024,68,Female,San Francisco,7.113112692
+571,Clothing,598.22,11/16/2024,56,Female,Houston,5.630377365
+571,Furniture,629.76,1/19/2024,56,Female,New York,5.704301782
+572,Electronics,1323.34,7/28/2024,33,Female,Los Angeles,8.5595513
+572,Furniture,269.77,1/12/2024,33,Female,Denver,6.121834182
+573,Furniture,1564.67,7/12/2024,42,Female,Seattle,9.446254984
+573,Electronics,1236.62,5/1/2024,42,Female,Boston,10
+573,Books,474.29,1/9/2024,42,Female,Houston,6.15078078
+574,Toys,562.34,6/24/2024,36,Female,San Diego,4.180037391
+574,Clothing,951.3,5/26/2024,36,Female,Denver,6.284015265
+575,Electronics,208.88,9/11/2024,20,Female,San Francisco,9.14291376
+575,Toys,542.32,7/24/2024,20,Female,Los Angeles,5.368690967
+576,Books,600.26,7/22/2024,50,Female,San Francisco,6.357631212
+576,Electronics,715.17,6/15/2024,50,Female,New York,10
+577,Books,1949.53,8/20/2024,57,Female,Chicago,8.757486549
+577,Electronics,1538.36,12/9/2024,57,Female,Los Angeles,10
+577,Toys,247.92,1/16/2024,57,Female,Seattle,4.232997308
+581,Toys,1510.9,9/2/2024,61,Male,Seattle,7.366995854
+584,Books,1875.02,7/1/2024,59,Male,San Francisco,7.845203183
+585,Clothing,644.88,9/22/2024,29,Female,Houston,6.868667367
+585,Electronics,877.14,5/27/2024,29,Female,Miami,9.504844757
+588,Toys,1319.78,3/18/2024,70,Female,New York,6.085409877
+589,Books,1645.67,12/19/2024,39,Female,Chicago,8.026837707
+590,Home Appliances,961.16,4/3/2024,57,Female,Atlanta,8.635888546
+590,Books,1152.45,11/27/2024,57,Female,Boston,7.550717772
+592,Electronics,1980.35,5/18/2024,28,Female,Dallas,9.976346858
+592,Books,316.98,2/29/2024,28,Female,Las Vegas,6.668404775
+593,Clothing,252.82,4/13/2024,44,Male,Chicago,6.495122275
+593,Electronics,1006.59,1/19/2024,44,Male,Atlanta,10
+596,Books,294.21,9/23/2024,21,Female,Dallas,6.214425655
+597,Furniture,380.76,7/12/2024,43,Female,New York,7.035291353
+597,Clothing,130.9,2/10/2024,43,Female,Miami,6.003221928
+597,Home Appliances,365.29,9/4/2024,43,Female,Miami,8.775522516
+599,Furniture,1568.75,1/17/2024,21,Female,San Francisco,8.404359235
+599,Electronics,1316.83,5/8/2024,21,Female,Miami,10
+600,Toys,620.85,8/6/2024,60,Female,San Diego,5.592491071
+601,Electronics,1684.73,6/8/2024,25,Female,Denver,9.993488204
+602,Furniture,1803.09,11/10/2024,57,Male,Las Vegas,10
+603,Furniture,667.97,11/13/2024,36,Female,Seattle,7.966170278
+603,Furniture,63.64,2/26/2024,36,Female,Dallas,7.986425096
+604,Books,1208.42,2/13/2024,42,Female,Las Vegas,6.408426905
+605,Home Appliances,887.39,1/28/2024,40,Female,Las Vegas,7.187905221
+605,Clothing,1320.96,3/31/2024,40,Female,Boston,6.223187182
+606,Toys,716.68,2/6/2024,29,Female,Las Vegas,6.742066565
+606,Electronics,559.12,5/19/2024,29,Female,Atlanta,8.539258952
+606,Electronics,1175.03,7/3/2024,29,Female,Boston,9.914493469
+608,Electronics,514.71,3/4/2024,43,Male,Atlanta,7.791130076
+609,Clothing,7.46,1/12/2024,19,Male,Miami,5.557678396
+610,Furniture,1926.88,5/9/2024,41,Female,Miami,9.50174887
+610,Furniture,310.2,4/6/2024,41,Female,Los Angeles,6.664775496
+611,Electronics,1056.41,12/23/2024,30,Female,Las Vegas,9.992084456
+611,Furniture,1194.99,6/27/2024,30,Female,Houston,9.070513607
+611,Home Appliances,956.01,8/21/2024,30,Female,Atlanta,8.834157935
+611,Home Appliances,1934.88,4/28/2024,30,Female,New York,8.163333195
+612,Clothing,768.14,11/14/2024,18,Female,Denver,6.8829924
+612,Home Appliances,387.61,8/21/2024,18,Female,Seattle,7.445384007
+613,Electronics,903.99,6/30/2024,47,Female,Seattle,7.985036781
+613,Clothing,1016.57,7/18/2024,47,Female,Los Angeles,7.022311447
+616,Books,7.47,11/3/2024,42,Female,Dallas,6.670251886
+616,Books,1090.31,1/11/2024,42,Female,Atlanta,6.916374928
+617,Electronics,789.93,9/3/2024,45,Male,Houston,10
+618,Electronics,190.39,8/18/2024,39,Male,Denver,7.289535094
+619,Furniture,1126.18,3/10/2024,68,Female,New York,8.581097737
+621,Books,1252.48,4/13/2024,65,Male,New York,7.61136976
+622,Toys,755.11,2/3/2024,30,Male,Los Angeles,5.416467491
+625,Toys,627.74,7/29/2024,35,Female,Las Vegas,6.695156953
+625,Toys,1873.22,7/28/2024,35,Female,Boston,6.287344173
+625,Electronics,1392.35,5/11/2024,35,Female,New York,9.686598313
+626,Toys,729.39,6/8/2024,18,Male,Chicago,4.660263236
+631,Clothing,860.12,9/26/2024,50,Male,Las Vegas,7.475690921
+632,Electronics,1794.43,11/19/2024,29,Male,Las Vegas,8.988816257
+638,Electronics,468.94,6/14/2024,44,Female,Boston,8.231614696
+640,Electronics,1947.05,12/25/2024,21,Female,New York,10
+641,Clothing,195.05,5/19/2024,66,Male,San Diego,4.558275251
+645,Home Appliances,979.35,11/3/2024,25,Female,Boston,9.191253603
+647,Toys,1921.76,4/26/2024,27,Male,Denver,8.157108651
+647,Electronics,605.2,9/3/2024,27,Male,Seattle,9.587856907
+647,Home Appliances,1811.19,10/12/2024,27,Male,Seattle,10
+648,Clothing,1448.19,10/4/2024,34,Female,Seattle,9.754342985
+651,Toys,1909.55,12/4/2024,52,Male,Dallas,6.519684376
+651,Electronics,1840.99,11/24/2024,52,Male,San Diego,10
+654,Furniture,770.78,7/12/2024,63,Male,Boston,5.990322848
+656,Clothing,1905.53,10/13/2024,26,Female,Los Angeles,6.009107624
+656,Books,1177.83,7/7/2024,26,Female,New York,6.504540882
+656,Electronics,325.89,4/17/2024,26,Female,New York,9.465527812
+656,Toys,784.5,5/15/2024,26,Female,Dallas,6.545764291
+657,Furniture,1768,7/5/2024,20,Male,Boston,8.134503311
+658,Clothing,843.14,2/22/2024,22,Male,Las Vegas,7.046927553
+660,Electronics,80.85,11/30/2024,59,Male,Boston,7.836710084
+661,Toys,1888.89,10/27/2024,59,Male,Atlanta,5.896334386
+662,Electronics,1304.78,11/27/2024,50,Male,Los Angeles,8.440177859
+663,Clothing,1463.88,4/5/2024,55,Female,Boston,5.827891165
+663,Books,916.43,1/31/2024,55,Female,San Diego,7.136087257
+664,Electronics,748.83,10/24/2024,25,Male,San Diego,7.629556685
+664,Furniture,316.55,3/30/2024,25,Male,Denver,6.966604165
+664,Books,1402,4/23/2024,25,Male,Dallas,8.10109959
+665,Clothing,1063.06,10/14/2024,68,Female,San Francisco,6.258261251
+665,Books,1413.51,9/14/2024,68,Female,Dallas,6.516537696
+666,Clothing,303.41,3/3/2024,38,Female,Houston,5.771756175
+666,Electronics,1882.05,3/16/2024,38,Female,San Diego,9.808744843
+666,Clothing,1257.76,12/20/2024,38,Female,Dallas,7.143743885
+666,Toys,71.6,9/12/2024,38,Female,Denver,5.717379093
+667,Clothing,1715.43,7/25/2024,58,Male,San Diego,7.345315805
+669,Home Appliances,1808.31,6/5/2024,60,Male,Denver,8.790803551
+670,Books,1350.24,1/20/2024,55,Male,Los Angeles,5.969232693
+670,Furniture,1585.23,3/28/2024,55,Male,Dallas,8.530779038
+672,Furniture,250.83,1/26/2024,50,Male,San Francisco,5.27039577
+672,Clothing,1166.39,12/23/2024,50,Male,Denver,7.45132307
+674,Electronics,989.09,8/30/2024,36,Female,New York,9.359897186
+674,Clothing,886.84,3/1/2024,36,Female,Las Vegas,6.186262173
+675,Toys,1553.12,11/27/2024,67,Female,Los Angeles,7.057221074
+675,Electronics,445.5,6/21/2024,67,Female,Atlanta,7.565999528
+677,Clothing,307.38,4/17/2024,29,Female,Chicago,7.394482362
+678,Books,477.87,5/23/2024,59,Male,Denver,6.139561934
+680,Toys,888.22,7/10/2024,46,Female,Dallas,6.040129751
+681,Books,1884.92,12/18/2024,29,Female,Seattle,5.899323684
+687,Toys,1115.49,3/29/2024,68,Female,Houston,6.092912394
+688,Electronics,745.56,11/5/2024,58,Female,Atlanta,8.892663526
+693,Clothing,964.4,6/13/2024,24,Male,San Diego,6.847185426
+694,Clothing,1229.49,10/12/2024,62,Male,San Francisco,5.787273526
+696,Clothing,475.54,6/12/2024,26,Female,Miami,8.434014301
+701,Home Appliances,1088.75,8/15/2024,59,Male,Chicago,5.685573407
+701,Toys,1493.68,3/5/2024,59,Male,Dallas,6.100942637
+702,Clothing,1680.73,8/2/2024,53,Female,Atlanta,7.924493022
+704,Books,208.79,7/18/2024,39,Male,Dallas,6.757761917
+705,Home Appliances,1079.7,5/22/2024,69,Female,San Francisco,7.72475377
+707,Home Appliances,686.64,1/2/2024,38,Female,Boston,7.564205187
+707,Electronics,1763.49,10/27/2024,38,Female,Miami,10
+708,Books,255.85,2/25/2024,21,Male,San Francisco,5.017286811
+708,Home Appliances,637.26,11/24/2024,21,Male,San Diego,8.835052522
+709,Electronics,34.26,6/9/2024,24,Male,Houston,6.974754564
+709,Books,1163.05,12/9/2024,24,Male,New York,8.032145286
+710,Books,1221.61,2/4/2024,49,Female,Chicago,9.08259704
+711,Home Appliances,183.8,12/28/2024,30,Male,Houston,7.302534088
+712,Books,1043.93,2/25/2024,35,Female,Chicago,5.84774313
+712,Books,1276.92,5/5/2024,35,Female,Dallas,7.785910521
+713,Clothing,1259.39,8/23/2024,20,Female,New York,9.723602441
+713,Toys,39.94,9/3/2024,20,Female,Boston,3.529635246
+713,Toys,500.92,11/22/2024,20,Female,Las Vegas,4.925078128
+713,Home Appliances,1488.13,7/17/2024,20,Female,Atlanta,8.902762895
+715,Books,867.32,3/19/2024,45,Male,Las Vegas,6.292370045
+717,Books,1500.34,9/20/2024,32,Male,Seattle,8.965916384
+720,Toys,901.62,5/3/2024,61,Male,Los Angeles,5.890068702
+720,Electronics,1363.54,7/10/2024,61,Male,Dallas,9.139218688
+724,Clothing,1047.35,8/18/2024,28,Female,Chicago,6.248395228
+725,Toys,492.07,3/26/2024,28,Female,Atlanta,5.434487983
+725,Toys,515.01,6/23/2024,28,Female,Denver,6.296196195
+726,Electronics,1638.38,1/16/2024,25,Female,San Diego,9.044663941
+726,Books,943.29,11/17/2024,25,Female,San Diego,6.234698733
+728,Books,466.11,7/12/2024,25,Female,Miami,4.966518449
+728,Electronics,1541.04,11/2/2024,25,Female,Dallas,10
+733,Home Appliances,250.33,12/21/2024,53,Female,Miami,7.497642981
+734,Home Appliances,1779.33,8/19/2024,36,Female,Miami,9.99696359
+734,Furniture,946.76,10/21/2024,36,Female,Atlanta,6.845065947
+734,Electronics,260.34,1/31/2024,36,Female,Miami,8.999966144
+736,Furniture,490.74,4/19/2024,43,Male,Dallas,6.517999226
+738,Clothing,639.63,9/23/2024,34,Female,Miami,5.735324187
+738,Books,889.33,3/20/2024,34,Female,Las Vegas,6.007119204
+738,Books,584.72,1/25/2024,34,Female,Chicago,8.277118002
+739,Electronics,1148.22,9/7/2024,25,Male,Las Vegas,9.828040346
+740,Books,1213.05,8/4/2024,28,Male,New York,8.131600824
+740,Clothing,147.2,10/4/2024,28,Male,San Francisco,5.914073744
+740,Home Appliances,1193.52,10/26/2024,28,Male,Dallas,8.505016069
+741,Toys,398.32,7/10/2024,41,Female,Chicago,4.912425176
+741,Electronics,903,8/27/2024,41,Female,Atlanta,9.087545302
+742,Home Appliances,1837.76,2/24/2024,19,Male,Las Vegas,7.499553344
+743,Home Appliances,1012.17,8/5/2024,58,Female,Seattle,10
+746,Home Appliances,900.31,1/17/2024,31,Male,Los Angeles,7.402701633
+747,Electronics,1492.94,1/24/2024,33,Male,Miami,8.394701123
+748,Toys,971.37,11/16/2024,46,Male,Boston,6.806794472
+748,Books,1959.2,10/12/2024,46,Male,Seattle,8.35769735
+748,Furniture,63.58,10/13/2024,46,Male,Las Vegas,5.37356945
+749,Toys,1377.97,2/23/2024,34,Female,New York,9.052073892
+752,Furniture,374.53,9/11/2024,60,Male,San Francisco,6.901830468
+753,Toys,633.8,12/6/2024,57,Female,Boston,4.845413886
+753,Clothing,1724.66,8/4/2024,57,Female,San Francisco,8.717582544
+754,Clothing,971.78,7/25/2024,47,Male,Denver,7.760451684
+755,Electronics,1160.93,8/2/2024,45,Female,Las Vegas,7.868277476
+756,Clothing,302.73,3/24/2024,49,Female,Las Vegas,6.523414945
+756,Electronics,851.47,10/11/2024,49,Female,Boston,8.34230223
+756,Books,1641.65,10/24/2024,49,Female,Los Angeles,8.720320758
+757,Toys,1719.83,12/16/2024,35,Female,Atlanta,5.687485162
+757,Toys,1894.34,12/26/2024,35,Female,Chicago,6.382661441
+758,Furniture,1575.32,4/23/2024,68,Female,New York,8.053897956
+759,Home Appliances,229.05,4/21/2024,31,Male,Chicago,7.9354384
+759,Home Appliances,1644.5,12/4/2024,31,Male,Seattle,7.921154831
+759,Books,1230.09,12/11/2024,31,Male,Miami,9.017510855
+759,Books,1984.87,5/31/2024,31,Male,Chicago,7.599499999
+759,Electronics,395.7,4/29/2024,31,Male,Dallas,8.723571818
+760,Furniture,1695.1,8/7/2024,26,Female,Seattle,8.695199022
+760,Toys,228.31,9/10/2024,26,Female,San Diego,4.725205776
+762,Electronics,949.78,11/14/2024,18,Male,Chicago,8.502520409
+763,Furniture,451.11,7/16/2024,39,Female,Seattle,7.531416457
+763,Electronics,975.76,10/1/2024,39,Female,Houston,10
+764,Electronics,1543.11,11/23/2024,21,Female,Dallas,10
+764,Electronics,1162.32,6/10/2024,21,Female,San Diego,9.008808536
+764,Electronics,1457.25,4/28/2024,21,Female,Boston,8.511397339
+764,Clothing,110.34,5/30/2024,21,Female,San Francisco,7.076283085
+765,Books,461.64,12/7/2024,28,Male,Las Vegas,6.682112321
+768,Clothing,649.41,8/4/2024,42,Male,Las Vegas,6.438369393
+770,Clothing,545.94,7/31/2024,21,Female,Boston,5.466644063
+770,Books,1622.32,5/8/2024,21,Female,New York,7.664890341
+772,Home Appliances,1066.83,8/8/2024,46,Male,Miami,7.806060154
+772,Books,580.93,2/18/2024,46,Male,San Francisco,5.745979632
+772,Clothing,747.01,8/16/2024,46,Male,Los Angeles,7.582618025
+773,Home Appliances,724.74,9/5/2024,69,Female,Los Angeles,7.58454202
+775,Clothing,332.18,3/1/2024,22,Female,San Francisco,5.667681319
+775,Furniture,188.28,6/5/2024,22,Female,Dallas,6.111304454
+776,Electronics,8.75,11/22/2024,30,Male,Los Angeles,6.072444194
+776,Furniture,628.14,6/30/2024,30,Male,Houston,8.119031212
+776,Toys,1375.29,6/28/2024,30,Male,Chicago,6.478849942
+777,Electronics,962.39,2/17/2024,54,Male,Denver,8.035900935
+781,Toys,552.71,10/26/2024,36,Male,Dallas,5.561360177
+782,Home Appliances,1652.71,8/14/2024,33,Female,Dallas,8.657209549
+782,Toys,473.17,7/10/2024,33,Female,Boston,6.10414449
+782,Home Appliances,959.08,5/24/2024,33,Female,Denver,7.586625688
+782,Toys,1053.38,7/23/2024,33,Female,Dallas,5.887111106
+784,Toys,839.71,8/5/2024,24,Female,Los Angeles,5.879401757
+784,Toys,1946.33,6/21/2024,24,Female,Seattle,8.163619734
+784,Furniture,1506.09,9/15/2024,24,Female,Boston,8.664047603
+785,Home Appliances,1207.09,4/30/2024,33,Female,Seattle,8.941270794
+785,Books,1597.7,1/19/2024,33,Female,San Francisco,8.456185172
+786,Furniture,286.85,7/29/2024,43,Male,Chicago,9.766701535
+787,Clothing,1926.66,2/13/2024,62,Female,Chicago,9.286547547
+788,Furniture,737.08,4/8/2024,51,Male,Los Angeles,7.988186599
+789,Furniture,1749.15,5/27/2024,19,Male,San Francisco,8.112071494
+790,Furniture,1372.17,2/22/2024,39,Female,Miami,7.845620691
+791,Electronics,475.41,5/25/2024,31,Female,San Diego,8.07193694
+791,Electronics,829.77,10/26/2024,31,Female,Boston,8.807387195
+792,Toys,1879.94,10/8/2024,27,Female,Boston,5.030235854
+792,Toys,711.7,8/22/2024,27,Female,Los Angeles,5.49408182
+793,Books,19.02,2/13/2024,50,Male,Boston,6.496859203
+795,Books,302.25,6/24/2024,60,Male,Dallas,7.094598409
+797,Books,1566.06,8/7/2024,26,Female,Boston,5.831396078
+798,Toys,469.13,8/7/2024,51,Female,Los Angeles,4.472857904
+798,Electronics,1646.8,5/24/2024,51,Female,Miami,9.469977724
+799,Furniture,23.02,11/19/2024,57,Female,Chicago,9.083979436
+799,Home Appliances,1538.2,3/1/2024,57,Female,New York,8.423063397
+799,Home Appliances,1468.56,2/14/2024,57,Female,San Francisco,9.278447817
+800,Books,1680.69,8/16/2024,60,Female,Las Vegas,7.45630789
+800,Furniture,695.91,3/8/2024,60,Female,Atlanta,7.567561324
+801,Electronics,570.27,5/3/2024,66,Female,Chicago,8.23261927
+802,Home Appliances,149.47,3/27/2024,26,Male,San Diego,6.567162872
+803,Furniture,1445.17,9/3/2024,68,Male,Chicago,7.827713697
+804,Books,1983.22,5/23/2024,35,Male,Houston,6.268765946
+804,Books,1520.37,10/18/2024,35,Male,Atlanta,7.906612299
+806,Home Appliances,1277.73,10/3/2024,20,Male,Los Angeles,8.099077881
+809,Toys,1477.45,8/2/2024,22,Female,Las Vegas,5.591476992
+810,Furniture,181.67,5/30/2024,43,Male,Seattle,8.016162721
+810,Electronics,222.67,8/3/2024,43,Male,San Diego,8.012158663
+811,Furniture,1432.4,4/3/2024,18,Female,Dallas,8.767926226
+814,Clothing,456.16,8/8/2024,65,Male,Miami,4.74791384
+818,Books,1133.27,9/1/2024,51,Male,Denver,6.524924706
+820,Home Appliances,169.6,6/21/2024,38,Female,San Francisco,5.881149814
+820,Furniture,121.62,11/11/2024,38,Female,Atlanta,6.930190031
+824,Home Appliances,1760.24,5/29/2024,27,Male,Los Angeles,9.461006007
+825,Electronics,1765.65,6/12/2024,50,Male,Houston,10
+826,Clothing,1681.7,11/23/2024,18,Female,Las Vegas,5.661886668
+827,Home Appliances,1552.73,8/7/2024,25,Female,Denver,9.401932309
+827,Electronics,359.64,3/16/2024,25,Female,Seattle,8.503433751
+827,Clothing,1631.16,6/17/2024,25,Female,Los Angeles,9.553092964
+828,Home Appliances,167.65,10/18/2024,43,Female,Seattle,7.557870784
+829,Toys,438.33,5/31/2024,25,Female,Houston,4.708267781
+829,Clothing,129.77,3/6/2024,25,Female,Chicago,5.942111506
+830,Electronics,1515.33,3/26/2024,29,Female,San Diego,8.96641064
+830,Electronics,185.51,11/26/2024,29,Female,Denver,9.916361546
+832,Books,677,4/16/2024,44,Male,San Diego,5.904225607
+832,Clothing,492.46,8/20/2024,44,Male,San Francisco,6.286470284
+833,Clothing,77.39,10/24/2024,55,Female,New York,6.840731625
+834,Furniture,142.92,11/6/2024,21,Female,Atlanta,8.23749582
+834,Electronics,92.25,6/29/2024,21,Female,Boston,7.223458253
+835,Furniture,1081.77,9/25/2024,33,Female,New York,8.230356229
+835,Toys,1959.4,6/7/2024,33,Female,San Diego,6.703525478
+836,Clothing,1156.48,4/19/2024,55,Male,Las Vegas,8.187137796
+836,Books,1206.28,4/7/2024,55,Male,Miami,7.809733025
+836,Books,1480.76,1/29/2024,55,Male,New York,6.194804608
+839,Books,1693.26,5/30/2024,33,Female,New York,6.343273953
+839,Electronics,807.64,12/29/2024,33,Female,Las Vegas,9.595983021
+840,Electronics,225.94,3/16/2024,45,Female,Atlanta,10
+841,Clothing,157.45,11/10/2024,45,Male,San Diego,6.468842793
+843,Toys,1205.7,3/19/2024,19,Female,Denver,6.878059209
+845,Toys,1281.81,2/6/2024,34,Female,Houston,6.866449698
+845,Toys,1730.05,6/30/2024,34,Female,Boston,8.788651746
+848,Electronics,322.08,9/14/2024,53,Female,New York,7.606233459
+849,Toys,1649.91,8/14/2024,32,Female,Boston,7.208815961
+849,Home Appliances,1187.87,11/9/2024,32,Female,Atlanta,7.369105893
+850,Furniture,1282.14,11/22/2024,30,Female,New York,7.703324186
+850,Toys,143.16,10/21/2024,30,Female,Denver,2.727492621
+851,Toys,1765.51,5/28/2024,25,Female,Dallas,6.299548063
+851,Books,1949.8,12/6/2024,25,Female,San Diego,7.31007307
+852,Home Appliances,1093.65,7/9/2024,44,Male,San Diego,8.788789896
+852,Electronics,230.32,10/30/2024,44,Male,New York,7.65791473
+854,Home Appliances,625.3,10/27/2024,21,Female,San Francisco,7.491696062
+854,Home Appliances,923.02,3/3/2024,21,Female,San Francisco,7.130893574
+858,Clothing,1102.43,1/12/2024,62,Male,Seattle,6.671076073
+859,Clothing,1014.68,10/4/2024,55,Female,Miami,7.685028703
+859,Electronics,1497.64,12/14/2024,55,Female,Los Angeles,10
+861,Books,1327.77,8/9/2024,64,Male,Houston,6.799140508
+862,Furniture,194.55,8/19/2024,43,Female,Miami,6.438845013
+862,Home Appliances,30.37,7/27/2024,43,Female,Dallas,5.665933928
+864,Books,87.16,1/19/2024,35,Female,New York,6.802886339
+864,Toys,1828.9,8/3/2024,35,Female,San Francisco,5.135815184
+864,Toys,802.81,1/1/2024,35,Female,Boston,6.649547578
+864,Electronics,1516.18,3/19/2024,35,Female,San Diego,10
+867,Books,794.05,3/3/2024,20,Female,Los Angeles,6.553082868
+867,Toys,754.47,6/18/2024,20,Female,San Francisco,6.372906311
+869,Home Appliances,1088.88,7/1/2024,24,Male,Boston,9.828335721
+869,Clothing,1759.14,11/15/2024,24,Male,Dallas,9.003854577
+870,Toys,154.02,3/2/2024,29,Female,Atlanta,5.074492732
+871,Toys,1903.2,6/10/2024,21,Female,Chicago,5.816538009
+872,Electronics,1362.51,6/11/2024,31,Female,San Diego,10
+873,Books,1302.34,9/1/2024,24,Male,New York,7.112947557
+874,Home Appliances,1669.44,10/21/2024,63,Female,Boston,9.984911045
+876,Clothing,1198.66,11/12/2024,31,Female,San Diego,7.351988662
+876,Electronics,109.42,10/27/2024,31,Female,Houston,6.132349026
+876,Books,1131.06,3/22/2024,31,Female,Denver,7.246548283
+876,Furniture,753.64,12/4/2024,31,Female,Seattle,6.602649436
+877,Books,311.55,6/5/2024,49,Male,New York,6.442065613
+879,Electronics,960.97,8/18/2024,67,Male,San Diego,9.856009181
+880,Home Appliances,92.11,1/1/2024,35,Female,Denver,8.194485421
+880,Clothing,647.61,4/7/2024,35,Female,Las Vegas,7.180955559
+883,Toys,463.96,8/19/2024,26,Female,San Diego,3.643812178
+883,Furniture,357.89,3/15/2024,26,Female,Boston,6.978078562
+884,Toys,642.74,11/27/2024,32,Male,New York,6.192067546
+885,Home Appliances,1214.71,12/11/2024,34,Female,New York,9.015263888
+887,Clothing,270.62,10/3/2024,40,Female,San Diego,8.370378398
+887,Books,458.68,7/21/2024,40,Female,Chicago,7.007812056
+890,Home Appliances,1568.77,5/22/2024,57,Female,Chicago,8.393199106
+891,Clothing,1563.43,2/19/2024,55,Female,San Francisco,5.801305861
+892,Home Appliances,405.71,8/3/2024,28,Male,Miami,6.421983895
+892,Electronics,427.91,2/1/2024,28,Male,Los Angeles,9.28789144
+892,Home Appliances,446.02,9/30/2024,28,Male,Denver,9.042869795
+893,Clothing,797.37,2/15/2024,19,Female,Los Angeles,6.028008951
+895,Toys,1586.95,7/11/2024,23,Female,Seattle,6.460167406
+895,Toys,1098.9,5/9/2024,23,Female,San Francisco,7.350590367
+896,Electronics,796.34,1/10/2024,28,Female,Boston,8.748488487
+896,Home Appliances,1340.43,10/4/2024,28,Female,Dallas,8.473912028
+896,Furniture,409.86,10/5/2024,28,Female,Boston,6.795138543
+898,Electronics,508.79,1/3/2024,44,Female,Chicago,7.689057878
+898,Books,670.47,11/26/2024,44,Female,Houston,9.896601659
+898,Clothing,1042.99,10/11/2024,44,Female,San Diego,8.350268597
+898,Toys,217.16,9/16/2024,44,Female,Seattle,5.199136747
+900,Books,534.45,4/15/2024,59,Female,Boston,5.676439111
+901,Clothing,894.35,6/17/2024,36,Male,Miami,6.904551471
+902,Electronics,215.86,12/12/2024,34,Female,Boston,10
+902,Furniture,551.21,4/10/2024,34,Female,San Francisco,8.137770768
+904,Furniture,182.24,12/21/2024,53,Female,Dallas,8.14159736
+905,Books,809.51,8/29/2024,33,Male,Dallas,7.418094645
+906,Books,894.69,5/18/2024,42,Female,Atlanta,8.501237386
+907,Electronics,514.34,10/27/2024,39,Male,Chicago,9.019206153
+911,Books,638.48,11/25/2024,63,Male,Boston,6.327873085
+913,Books,1227.82,5/24/2024,46,Female,Seattle,8.544366172
+915,Home Appliances,191.35,7/16/2024,26,Female,Atlanta,6.162825014
+915,Books,1613.36,5/28/2024,26,Female,Houston,8.126732569
+916,Books,41.64,5/28/2024,27,Male,Boston,4.577197767
+916,Electronics,10.16,7/18/2024,27,Male,Chicago,7.610019158
+916,Furniture,685.47,4/15/2024,27,Male,San Diego,7.278363031
+916,Toys,848.26,7/24/2024,27,Male,Seattle,6.21154539
+918,Home Appliances,1554.56,3/21/2024,40,Female,Los Angeles,7.357079314
+919,Furniture,1450.22,8/5/2024,40,Female,Denver,8.252254244
+919,Toys,39.67,5/14/2024,40,Female,Houston,4.695879863
+920,Electronics,1044.86,1/12/2024,30,Female,Atlanta,8.83939498
+920,Home Appliances,535.71,6/30/2024,30,Female,Seattle,7.187527429
+922,Books,794.11,10/14/2024,27,Female,Boston,6.791389805
+922,Home Appliances,517.48,3/9/2024,27,Female,Seattle,5.671206741
+923,Books,1293.95,9/8/2024,66,Female,Seattle,6.752264398
+924,Toys,1502.71,8/10/2024,27,Female,New York,7.956424097
+924,Books,1479.89,4/12/2024,27,Female,Denver,5.751595914
+925,Toys,5.66,3/7/2024,59,Male,New York,5.187517917
+926,Home Appliances,1513.75,1/4/2024,41,Male,Boston,9.215707492
+927,Home Appliances,1045.85,7/17/2024,45,Female,Las Vegas,6.773455023
+928,Furniture,1752.83,1/28/2024,68,Male,San Francisco,6.96110058
+929,Electronics,821.91,1/16/2024,29,Female,Boston,8.009030969
+929,Home Appliances,1589.01,7/20/2024,29,Female,Denver,8.820539904
+929,Electronics,797.78,12/6/2024,29,Female,Houston,6.802945539
+930,Toys,328.95,6/22/2024,22,Female,San Francisco,7.273543994
+930,Electronics,509.85,9/2/2024,22,Female,Atlanta,9.522288437
+931,Electronics,1912.66,12/4/2024,41,Male,Boston,9.830013532
+932,Toys,1521.39,10/27/2024,59,Male,Dallas,5.861358043
+933,Home Appliances,386.43,10/11/2024,43,Male,Houston,6.837834563
+934,Clothing,1566.48,8/8/2024,34,Female,Chicago,6.964513386
+935,Home Appliances,216.33,4/2/2024,20,Male,Seattle,10
+936,Home Appliances,1851.72,6/15/2024,49,Male,Las Vegas,10
+937,Clothing,660.12,12/11/2024,34,Female,Los Angeles,5.199851985
+937,Toys,780.36,1/22/2024,34,Female,Miami,5.676553319
+938,Home Appliances,965.86,10/9/2024,69,Male,San Francisco,9.064013028
+939,Clothing,1894.96,10/24/2024,30,Female,Las Vegas,8.647284893
+939,Electronics,1716.68,2/5/2024,30,Female,San Francisco,9.683639088
+940,Toys,870.14,11/10/2024,60,Male,Houston,4.803483867
+941,Furniture,1736.91,11/15/2024,47,Male,Houston,8.997537858
+942,Clothing,1754.89,8/19/2024,46,Male,San Francisco,8.756196537
+943,Electronics,554.85,1/26/2024,62,Male,Seattle,8.553923374
+949,Books,1231.88,1/17/2024,67,Female,New York,6.574817081
+951,Clothing,1173.69,6/24/2024,32,Female,Boston,6.831328365
+952,Books,1620.01,11/10/2024,39,Female,Los Angeles,8.381700337
+952,Books,1081.41,6/4/2024,39,Female,Las Vegas,7.165798194
+954,Toys,311.81,10/11/2024,36,Female,Seattle,6.386990397
+954,Home Appliances,1238.01,11/23/2024,36,Female,Boston,7.770581286
+955,Toys,1654.54,10/11/2024,29,Male,Seattle,6.206506141
+957,Books,939.74,12/20/2024,63,Male,Denver,6.125267886
+957,Furniture,1870.73,4/11/2024,63,Male,Atlanta,7.818249923
+958,Books,721.51,9/9/2024,57,Female,Los Angeles,6.785882571
+958,Home Appliances,1694.6,7/7/2024,57,Female,Miami,9.156136575
+961,Electronics,756.51,8/26/2024,34,Male,Houston,9.637017664
+961,Home Appliances,1073.04,7/18/2024,34,Male,Chicago,9.036222743
+961,Toys,712.91,11/6/2024,34,Male,Dallas,6.370846293
+963,Toys,1143.95,4/7/2024,64,Female,Chicago,9.236591278
+964,Clothing,813.59,10/21/2024,25,Male,New York,7.604736712
+964,Toys,1495.02,4/23/2024,25,Male,Atlanta,7.358390462
+967,Toys,164.53,4/7/2024,45,Female,Chicago,4.672242009
+967,Electronics,535.37,9/8/2024,45,Female,Boston,8.512551239
+967,Home Appliances,423.63,2/17/2024,45,Female,San Diego,7.158244601
+969,Toys,63,4/2/2024,35,Female,Los Angeles,4.048363625
+969,Home Appliances,596.5,10/7/2024,35,Female,New York,7.759698459
+971,Clothing,1197.46,9/26/2024,58,Female,San Diego,7.771780494
+972,Clothing,336.92,1/22/2024,22,Female,Houston,6.413654239
+972,Toys,655.22,6/18/2024,22,Female,San Francisco,4.160873692
+972,Toys,411.14,7/19/2024,22,Female,Denver,4.676566613
+972,Books,763.25,11/13/2024,22,Female,Denver,5.735652249
+972,Electronics,1444.24,6/19/2024,22,Female,Chicago,8.096042498
+973,Books,1651.14,7/22/2024,34,Female,Chicago,8.858962035
+976,Clothing,1819.5,1/17/2024,39,Female,Los Angeles,8.042923642
+976,Books,1087.38,7/30/2024,39,Female,San Diego,7.278373748
+977,Furniture,1260.45,12/10/2024,25,Male,Miami,7.603335522
+978,Furniture,464.34,3/19/2024,60,Male,Las Vegas,5.693142835
+979,Furniture,647.58,6/11/2024,27,Female,Boston,7.520662196
+979,Toys,1923.52,5/17/2024,27,Female,Los Angeles,5.243143608
+980,Home Appliances,745.99,2/27/2024,69,Male,Miami,5.927436465
+981,Books,1719.53,1/3/2024,55,Female,San Francisco,7.849856742
+981,Furniture,249.14,3/3/2024,55,Female,Miami,6.284040329
+983,Books,887.61,3/9/2024,22,Male,Seattle,6.961639352
+983,Toys,1240.9,7/18/2024,22,Male,Boston,6.085292072
+983,Furniture,873.83,8/5/2024,22,Male,Miami,8.521833185
+984,Toys,1262.27,7/5/2024,47,Female,Miami,4.450817916
+984,Furniture,133.91,9/20/2024,47,Female,Denver,7.245236499
+985,Toys,215.21,1/6/2024,26,Female,Denver,5.186802138
+985,Furniture,1566.25,1/6/2024,26,Female,Atlanta,9.408956019
+986,Books,377.51,9/21/2024,42,Female,San Francisco,6.020138904
+986,Books,730.57,3/15/2024,42,Female,Chicago,6.984299021
+991,Toys,964.41,2/5/2024,60,Female,Las Vegas,5.447803815
+992,Clothing,934.3,6/12/2024,47,Female,Miami,7.275338511
+992,Home Appliances,1576.86,2/8/2024,47,Female,Las Vegas,8.978648746
+995,Furniture,997.03,8/21/2024,48,Male,New York,8.24940421
+996,Furniture,627.98,1/13/2024,20,Male,Denver,8.490890743
+996,Toys,677.77,11/29/2024,20,Male,San Diego,5.407541681
+996,Clothing,643.52,6/6/2024,20,Male,Denver,6.033999518
+997,Furniture,373.25,10/26/2024,39,Female,Las Vegas,8.878732285
+997,Furniture,75.96,10/28/2024,39,Female,Las Vegas,6.120473503
+998,Home Appliances,40.63,7/27/2024,56,Male,Boston,7.589480426
+998,Home Appliances,391.94,9/21/2024,56,Male,Atlanta,6.830456975
+1000,Books,829,5/21/2024,23,Male,Los Angeles,5.732598635
+1003,Clothing,1703.64,5/13/2024,30,Male,Houston,7.370345114
+1003,Furniture,1518.56,3/14/2024,30,Male,New York,8.040731623
+1006,Electronics,994.62,5/20/2024,30,Male,Miami,8.827228661
+1007,Clothing,1099.26,4/20/2024,63,Male,San Diego,6.186965037
+1008,Toys,775.77,5/22/2024,33,Female,San Francisco,5.373299308
+1008,Clothing,220.35,11/1/2024,33,Female,Las Vegas,5.970241541
+1009,Clothing,1439.56,7/13/2024,28,Male,Los Angeles,9.048426279
+1012,Toys,647.82,4/2/2024,61,Female,Boston,7.25232758
+1013,Toys,1706.91,3/9/2024,41,Male,Boston,6.687405471
+1014,Home Appliances,361,3/20/2024,49,Female,Atlanta,8.775295106
+1015,Home Appliances,1982.3,3/18/2024,64,Male,Los Angeles,8.918351507
+1016,Clothing,1638.32,7/24/2024,60,Female,Boston,7.758438883
+1020,Clothing,1812.25,2/11/2024,28,Female,Boston,9.076011162
+1020,Electronics,366.73,2/15/2024,28,Female,Las Vegas,10
+1021,Clothing,248.46,2/17/2024,41,Female,Dallas,7.453786732
+1021,Books,1688.26,6/19/2024,41,Female,Atlanta,6.312644284
+1022,Home Appliances,1387.92,7/14/2024,30,Female,Dallas,8.850662717
+1022,Toys,1050.7,7/17/2024,30,Female,Seattle,6.552991225
+1023,Clothing,1976.19,5/1/2024,39,Female,San Francisco,6.415583013
+1025,Home Appliances,178.92,6/30/2024,25,Male,San Diego,6.769662545
+1028,Toys,1747.31,9/22/2024,55,Female,San Francisco,7.365060178
+1029,Clothing,864.57,3/21/2024,23,Female,Boston,5.825483357
+1029,Toys,1797.03,9/24/2024,23,Female,Los Angeles,8.045821901
+1029,Furniture,305.6,5/25/2024,23,Female,New York,8.337032678
+1029,Books,1118.17,3/18/2024,23,Female,Atlanta,7.175358617
+1029,Books,1639.41,10/13/2024,23,Female,Las Vegas,7.985246658
+1030,Books,327.54,9/18/2024,20,Male,San Diego,6.161062613
+1032,Furniture,325.85,1/30/2024,39,Female,San Diego,6.822485907
+1032,Books,222.29,6/22/2024,39,Female,Houston,6.320253264
+1034,Books,1107.26,12/7/2024,20,Male,Los Angeles,7.563729751
+1035,Books,267.04,12/12/2024,31,Female,San Diego,6.956023953
+1035,Electronics,1744.91,5/15/2024,31,Female,Los Angeles,9.406035055
+1036,Electronics,1793.95,9/24/2024,38,Female,Dallas,9.865055569
+1036,Furniture,1001.17,12/4/2024,38,Female,San Francisco,8.342037845
+1043,Toys,1216.58,1/24/2024,23,Female,San Francisco,8.158769613
+1043,Toys,1472.02,8/23/2024,23,Female,Dallas,6.798784478
+1043,Toys,50.67,10/26/2024,23,Female,Los Angeles,4.482613712
+1046,Electronics,1048.55,9/23/2024,34,Male,Dallas,9.377859145
+1046,Books,1466.24,3/30/2024,34,Male,Seattle,8.877245207
+1048,Clothing,926.16,11/2/2024,18,Female,New York,8.22922498
+1051,Home Appliances,1885.95,6/15/2024,48,Male,San Diego,8.805847565
+1052,Books,1662.6,10/29/2024,33,Male,Los Angeles,7.79784654
+1053,Clothing,665.12,8/23/2024,20,Female,New York,7.346589385
+1053,Electronics,336.83,10/25/2024,20,Female,New York,9.276504248
+1053,Books,1598.19,11/27/2024,20,Female,Seattle,6.849257307
+1054,Home Appliances,539.94,3/31/2024,68,Female,Boston,8.244594087
+1055,Home Appliances,1628.46,10/20/2024,22,Female,Chicago,9.324197499
+1055,Furniture,1236.23,2/7/2024,22,Female,Miami,8.158649208
+1056,Books,770.31,10/19/2024,34,Female,Seattle,8.037949376
+1056,Clothing,1935.18,6/26/2024,34,Female,Atlanta,7.883760446
+1057,Home Appliances,287.84,6/14/2024,23,Male,Las Vegas,6.838865919
+1057,Home Appliances,688.06,10/4/2024,23,Male,San Francisco,7.603904209
+1058,Electronics,1736.77,3/20/2024,28,Female,San Francisco,8.849424372
+1058,Furniture,67.45,1/25/2024,28,Female,Los Angeles,6.589992477
+1058,Furniture,1499.58,4/8/2024,28,Female,Denver,6.874798641
+1058,Books,721.71,5/20/2024,28,Female,New York,7.56504011
+1058,Home Appliances,1973.45,3/24/2024,28,Female,Seattle,7.707737348
+1058,Books,1919.85,3/5/2024,28,Female,Seattle,7.944016152
+1059,Electronics,1384.78,2/25/2024,40,Female,Atlanta,7.644362209
+1059,Home Appliances,1305.08,11/29/2024,40,Female,Houston,7.671930996
+1060,Furniture,1271.75,12/6/2024,38,Male,Houston,9.326285763
+1061,Clothing,834.74,9/29/2024,33,Female,Miami,7.554664507
+1062,Books,1914.86,2/6/2024,37,Male,San Diego,7.25600875
+1063,Home Appliances,495.91,1/2/2024,37,Male,Dallas,8.405905782
+1063,Books,1101.48,4/22/2024,37,Male,Los Angeles,7.435940064
+1068,Books,607.61,2/22/2024,47,Female,Miami,6.87622871
+1068,Books,1976.89,5/9/2024,47,Female,Las Vegas,7.068142419
+1070,Toys,1696.86,7/12/2024,34,Female,Chicago,6.63902305
+1071,Books,1935.67,1/11/2024,38,Male,Atlanta,6.957007167
+1072,Home Appliances,1509.74,8/29/2024,32,Female,Dallas,9.834438705
+1072,Clothing,249.26,3/19/2024,32,Female,Las Vegas,8.630403901
+1073,Furniture,108.14,2/19/2024,26,Female,Dallas,6.123740374
+1073,Clothing,1509.44,9/1/2024,26,Female,Seattle,7.136038979
+1074,Toys,1952.1,10/12/2024,37,Male,Miami,8.143968506
+1075,Clothing,512.18,12/28/2024,26,Male,San Francisco,6.27112575
+1076,Furniture,1546.78,7/12/2024,38,Male,Los Angeles,9.567881573
+1078,Electronics,212.75,7/16/2024,47,Male,Miami,6.998332326
+1081,Furniture,1885.06,11/12/2024,47,Female,Seattle,9.594596171
+1082,Electronics,763.94,6/28/2024,38,Male,Las Vegas,9.168275478
+1083,Books,327.72,8/23/2024,20,Female,San Diego,5.020115519
+1086,Home Appliances,630.89,9/15/2024,47,Male,Miami,7.835904773
+1087,Furniture,352.52,5/27/2024,46,Male,Seattle,6.157203202
+1088,Electronics,393.14,8/22/2024,47,Male,Houston,8.67896349
+1088,Toys,112.45,3/22/2024,47,Male,San Diego,4.950786763
+1090,Books,1066.86,12/26/2024,24,Male,Denver,9.053531265
+1092,Books,401.72,5/2/2024,46,Female,San Diego,6.739406998
+1093,Home Appliances,481.92,7/19/2024,32,Male,San Francisco,6.891032638
+1093,Books,271.94,11/4/2024,32,Male,San Francisco,6.612402446
+1096,Books,296.11,6/21/2024,31,Male,San Francisco,6.487602852
+1096,Clothing,1196.11,7/20/2024,31,Male,Miami,5.815281639
+1097,Clothing,1335.61,9/24/2024,27,Male,Los Angeles,6.3309129
+1097,Clothing,1031.74,10/4/2024,27,Male,Boston,7.858900312
+1099,Books,926.58,9/11/2024,56,Female,Miami,7.423161671
+1099,Books,454.75,2/24/2024,56,Female,Las Vegas,6.910988797
